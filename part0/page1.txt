@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head> <link href="applyStyle/style1.css" rel="stylesheet">
+</head>
+<body bgcolor=orange>
+
+<h1>Personal Profile</h1>
+<p > <font  size=5 color= white face="arial"> Ms. P.B.N.DEVI received her B.tech degree in Computer Science and Engineering from kluniversity in the year of 2019 . At present she is Studing as 2nd year completed of Computer Science and engineering in KL University, Vaddeswaram, Andhra Pradesh.</p>
+
+
+<img src="C:\Users\DELL\Pictures\Camera Roll\2.jpeg" alt="My test image">
+<h2> Her area of research interest are :-<h2>
+<BR>
+<a href="page2.html">Click Here</a>
+
+</body>
+</html>
